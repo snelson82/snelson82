@@ -22,6 +22,9 @@ I love learning through creation and practice.
 
 #### Studying
 
+![Elixir](https://img.shields.io/badge/elixir-4B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-CC44A2.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-E15F36?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
