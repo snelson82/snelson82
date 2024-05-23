@@ -26,6 +26,7 @@ I love learning through creation and practice.
 ![GraphQL](https://img.shields.io/badge/graphql-CC44A2.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-E15F36?style=for-the-badge&logo=phoenixframework&logoColor=white)
+![Mermaid JS](https://img.shields.io/badge/Mermaid%20JS-0076A8.svg?style=for-the-badge&logo=mermaid&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Tools & Helpers I Use
